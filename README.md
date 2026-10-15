@@ -19,7 +19,7 @@ A team-built incident response console that turns logs into triage, root-cause h
 - Contributed to the MVP demo and presentation. The integrated app streams analysis stages to the frontend and includes human approval gates for proposed actions.
 
 **Stack:** Python, FastAPI, Next.js, Server-Sent Events  
-[Project & team credits](https://github.com/ys06146/ai-incident-copilot) · [Backend implementation](https://github.com/ys06146/ai-incident-copilot/tree/main/backend)
+[Original team repository](https://github.com/joannemiki57/IncidentCopilot) · [Backend implementation](https://github.com/joannemiki57/IncidentCopilot/tree/main/backend)
 
 ### SENSEA
 A team-built, voice-first campus navigation app for blind and low-vision users.
@@ -32,7 +32,7 @@ A team-built, voice-first campus navigation app for blind and low-vision users.
 The vision component is an experimental assistive feature; it does not establish a safe walking path or predict collisions.
 
 **Stack:** TypeScript / JavaScript, React Native, VisionCamera, TensorFlow Lite  
-[Project](https://github.com/jjaeyun01/SENSEA) · [Camera & inference pipeline](https://github.com/jjaeyun01/SENSEA/blob/main/mobile/src/vision/createNativeSession.ts) · [Tracking & attention cues](https://github.com/jjaeyun01/SENSEA/blob/main/mobile/src/vision/hazards.mjs)
+[Original team repository](https://github.com/jjaeyun01/SENSEA) · [Camera & inference pipeline](https://github.com/jjaeyun01/SENSEA/blob/main/mobile/src/vision/createNativeSession.ts) · [Tracking & attention cues](https://github.com/jjaeyun01/SENSEA/blob/main/mobile/src/vision/hazards.mjs)
 
 ## Technologies I work with
 
@@ -41,4 +41,4 @@ The vision component is an experimental assistive feature; it does not establish
 
 ---
 
-This is my primary GitHub account. I previously contributed under [@sbae56-art](https://github.com/sbae56-art), and my personal and academic repositories are now maintained here. SENSEA links to the team's repository.
+This is my primary GitHub account. Earlier academic contributions may appear under [@sbae56-art](https://github.com/sbae56-art).
