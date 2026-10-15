@@ -1,16 +1,44 @@
-## Hi there 👋
+# Seojin Bae
 
-<!--
-**ys06146/ys06146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software engineering · Computer vision · Applied AI**
 
-Here are some ideas to get you started:
+I'm a Data Science B.S. student at the **University of Wisconsin–Madison**, graduating in **May 2027**. I build software that turns model outputs and system data into practical tools, from incident diagnosis APIs to on-device visual assistance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Seeking 2027 new-grad software engineering and computer vision / ML engineering roles.**  
+[LinkedIn](https://www.linkedin.com/in/seojin-bae-904546297) · [Academic GitHub](https://github.com/sbae56-art)
+
+## Selected projects
+
+### AI Incident Copilot
+**1st Place — UW–Madison LikeLion Hackathon 2026**  
+A team-built incident response console that turns logs into triage, root-cause hypotheses, supporting evidence, and proposed recovery steps.
+
+**My focus: backend diagnosis logic, pipeline design, and API integration.**
+- Designed the incident diagnosis pipeline and contributed backend logic for triage, root-cause analysis, evidence mapping, and action planning.
+- Worked on the log/metric analysis flow and FastAPI integration that connects backend results to the user-facing workflow.
+- Contributed to the MVP demo and presentation. The integrated app streams analysis stages to the frontend and includes human approval gates for proposed actions.
+
+**Stack:** Python, FastAPI, Next.js, Server-Sent Events  
+[Project & team credits](https://github.com/sbae56-art/ai-incident-copilot) · [Backend implementation](https://github.com/sbae56-art/ai-incident-copilot/tree/main/backend)
+
+### SENSEA
+A team-built, voice-first campus navigation app for blind and low-vision users.
+
+**My focus: the computer vision implementation.**
+- Integrated EfficientDet-Lite0 / TensorFlow Lite with VisionCamera for on-device object detection in a React Native app.
+- Built a bounded camera-analysis pipeline with a 200 ms scheduling interval, stale-result rejection, reusable input buffers, and camera/model resource cleanup.
+- Implemented temporal object tracking and image-based attention cues, connected to spoken feedback and haptic alerts with repeated-alert suppression.
+
+The vision component is an experimental assistive feature; it does not establish a safe walking path or predict collisions.
+
+**Stack:** TypeScript / JavaScript, React Native, VisionCamera, TensorFlow Lite  
+[Project](https://github.com/jjaeyun01/SENSEA) · [Camera & inference pipeline](https://github.com/jjaeyun01/SENSEA/blob/main/mobile/src/vision/createNativeSession.ts) · [Tracking & attention cues](https://github.com/jjaeyun01/SENSEA/blob/main/mobile/src/vision/hazards.mjs)
+
+## Technologies I work with
+
+**Languages:** Python, C++, C#, Java, TypeScript, SQL  
+**Tools & frameworks:** FastAPI, React Native, .NET, PyTorch, TensorFlow / TensorFlow Lite, Git, Linux
+
+---
+
+This is my primary personal GitHub account. Earlier academic work is published under [@sbae56-art](https://github.com/sbae56-art); team projects remain linked to their original repositories.
