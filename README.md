@@ -5,7 +5,7 @@
 I'm a Data Science B.S. student at the **University of Wisconsin–Madison**, graduating in **May 2027**. I build software that turns model outputs and system data into practical tools, from incident diagnosis APIs to on-device visual assistance.
 
 **Seeking 2027 new-grad software engineering and computer vision / ML engineering roles.**  
-[LinkedIn](https://www.linkedin.com/in/seojin-bae-904546297) · [Academic GitHub](https://github.com/sbae56-art)
+[LinkedIn](https://www.linkedin.com/in/seojin-bae-904546297) · [Repositories](https://github.com/ys06146?tab=repositories)
 
 ## Selected projects
 
@@ -19,7 +19,7 @@ A team-built incident response console that turns logs into triage, root-cause h
 - Contributed to the MVP demo and presentation. The integrated app streams analysis stages to the frontend and includes human approval gates for proposed actions.
 
 **Stack:** Python, FastAPI, Next.js, Server-Sent Events  
-[Project & team credits](https://github.com/sbae56-art/ai-incident-copilot) · [Backend implementation](https://github.com/sbae56-art/ai-incident-copilot/tree/main/backend)
+[Project & team credits](https://github.com/ys06146/ai-incident-copilot) · [Backend implementation](https://github.com/ys06146/ai-incident-copilot/tree/main/backend)
 
 ### SENSEA
 A team-built, voice-first campus navigation app for blind and low-vision users.
@@ -41,4 +41,4 @@ The vision component is an experimental assistive feature; it does not establish
 
 ---
 
-This is my primary personal GitHub account. Earlier academic work is published under [@sbae56-art](https://github.com/sbae56-art); team projects remain linked to their original repositories.
+This is my primary GitHub account. I previously contributed under [@sbae56-art](https://github.com/sbae56-art), and my personal and academic repositories are now maintained here. SENSEA links to the team's repository.
