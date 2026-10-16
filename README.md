@@ -4,7 +4,7 @@
 
 I'm a Data Science B.S. student at the **University of Wisconsin–Madison**, graduating in **May 2027**. I build software that turns model outputs and system data into practical tools, from incident diagnosis APIs to on-device visual assistance.
 
-**Seeking 2027 new-grad software engineering and computer vision / ML engineering roles.**  
+**Seeking 2027 new-grad software engineering and data engineering roles.**  
 [LinkedIn](https://www.linkedin.com/in/seojin-bae-904546297) · [Repositories](https://github.com/ys06146?tab=repositories)
 
 ## Selected projects
@@ -33,6 +33,20 @@ The vision component is an experimental assistive feature; it does not establish
 
 **Stack:** TypeScript / JavaScript, React Native, VisionCamera, TensorFlow Lite  
 [Original team repository](https://github.com/jjaeyun01/SENSEA) · [Camera & inference pipeline](https://github.com/jjaeyun01/SENSEA/blob/main/mobile/src/vision/createNativeSession.ts) · [Tracking & attention cues](https://github.com/jjaeyun01/SENSEA/blob/main/mobile/src/vision/hazards.mjs)
+
+## Current collaboration
+
+### MoDoc AI · FeverCoach Web Migration
+**Selected team member · Industry-academic collaboration · October 2026–present**
+
+Participating in the initial planning phase of FeverCoach's migration from Wix to a custom-built website.
+
+**Planned project scope:**
+- Inventory existing URLs, page content, and metadata to preserve search visibility during the migration.
+- Rebuild the website while retaining indexed URLs and maintaining publishing workflows.
+- Migrate and test content-generation scripts, then validate SEO and analytics continuity after the domain cutover.
+
+[MoDoc AI](https://www.modoc-ai.com/) · [FeverCoach](https://www.fevercoach.us/)
 
 ## Technologies I work with
 
