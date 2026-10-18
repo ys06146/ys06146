@@ -7,6 +7,15 @@ I'm a Data Science B.S. student at the **University of Wisconsin–Madison**, gr
 **Seeking 2027 new-grad software engineering and data engineering roles.**  
 [LinkedIn](https://www.linkedin.com/in/seojin-bae-904546297) · [Repositories](https://github.com/ys06146?tab=repositories)
 
+## Experience
+
+### DeePix
+**Manager, Development Team · June–August 2026**
+
+- Developed C#/C++ sensor-data viewing tools for RAW, DAT, and HDF5 files.
+- Built Python pipelines for event-camera decoding, denoising, multi-object tracking, and velocity estimation.
+- Worked on a visual anomaly-detection pilot using PatchCore and PaDiM, including manual image review.
+
 ## Selected projects
 
 ### AI Incident Copilot
